@@ -1,4 +1,4 @@
-# Name: Alin Jebitha B  
+**Name:** Alin Jebitha B  
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT08DSB 
 **Domain:** Frontend Website Development  
