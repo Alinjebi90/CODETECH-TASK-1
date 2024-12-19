@@ -1,7 +1,6 @@
 **Name:** Alin Jebitha B  
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT08DSB
-
 **Domain:** Frontend Website Development  
 **Duration:** December 2024 - January 2025 
 
